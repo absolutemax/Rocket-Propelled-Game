@@ -1,7 +1,9 @@
 {
 	"folders": [
 		{
+			"name": "Rocket-Propelled-Game",
 			"path": "."
 		}
-	]
+	],
+	"settings": {}
 }
